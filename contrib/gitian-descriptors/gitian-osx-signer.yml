@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/perakcoin-project/perakcoin-detached-sigs.git"
+- "url": "https://github.com/peraktechnology/perakcoin-detached-sigs.git"
   "dir": "signature"
 files:
 - "perakcoin-osx-unsigned.tar.gz"

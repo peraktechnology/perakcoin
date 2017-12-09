@@ -7,7 +7,7 @@ It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/perakcoin-project/perakcoin/issues>
+  <https://github.com/peraktechnology/perakcoin/issues>
 
 Compatibility
 ==============

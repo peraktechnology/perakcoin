@@ -3,7 +3,7 @@ Perakcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/perakcoin-project/perakcoin.svg?branch=master)](https://travis-ci.org/perakcoin-project/perakcoin)
 
-https://perakcoin.org
+https://peraktechnology.com
 
 What is Perakcoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Perakcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Perakcoin Core software, see [https://perakcoin.org](https://perakcoin.org).
+the Perakcoin Core software, see [https://peraktechnology.com](https://peraktechnology.com).
 
 License
 -------
@@ -27,7 +27,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/perakcoin-project/perakcoin/tags) are created
+completely stable. [Tags](https://github.com/peraktechnology/perakcoin/tags) are created
 regularly to indicate new official, stable release versions of Perakcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).

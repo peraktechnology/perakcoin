@@ -525,8 +525,8 @@ std::string HelpMessage(HelpMessageMode mode)
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/perakcoin-project/perakcoin>";
-    const std::string URL_WEBSITE = "<https://perakcoin.org>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/peraktechnology/perakcoin>";
+    const std::string URL_WEBSITE = "<https://peraktechnology.com>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +

@@ -29,7 +29,7 @@ Build Perakcoin Core
 
 1. Clone the perakcoin source code and cd into `perakcoin`
 
-        git clone https://github.com/perakcoin-project/perakcoin
+        git clone https://github.com/peraktechnology/perakcoin
         cd perakcoin
 
 2.  Build perakcoin-core:
